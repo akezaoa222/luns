@@ -1,0 +1,728 @@
+<!DOCTYPE html><html lang="en">
+<!-- Mirrored from ceoluna.net/ethereum/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 16 May 2022 16:29:27 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="shortcut icon" href="fonts/fav.svg" type="image/x-icon">
+    <title>Ethereum Presale AirDrop</title>
+    <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://dropada.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='../../cdn.matomo.cloud/dropada.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+    </head>
+
+<body>
+    <div class="responsive-wrapper">
+        <div class="responsive-header">
+            <header>
+                <a href="#" class="logo-t">
+                    <img src="fonts/tw.svg" alt>
+                </a>
+                <a href="#" class="header-button">Giveaway</a>
+            </header>
+        </div>
+        <div class="adress-copy">
+            Address copied
+        </div>
+        <div class="responsive-main">
+            <div class="responsive-welcome">
+                <div class="welcome">
+                    <div class="info-welcome">
+                        <div class="list-tags">
+                            <div class="item">
+                                <p>Crypto</p>
+                            </div>
+                            <div class="item">
+                                <p>Ethereum Presale</p>
+                            </div>
+                            <div class="item">
+                                <p>Terra Foundation</p>
+								  </div>
+                            <div class="item">
+                                <p>Do Kwon</p>
+                            </div>
+                        </div>
+                        <h1>Hurry up and take <br>
+                            Part in presale <br>
+                            of the new Luna token <br>
+							on the ETH network</h1>
+                        <p>During this unique event we will give you a chance to <br>
+                            win 50,000 ETH have a look at the rules and don't <br>
+                            miss on your chance!</p>
+                        <div class="button-a">
+                            <p>To participate</p>
+                        </div>
+                    </div>
+                    <div class="image-creator">
+                        <img src="images/creator.png" alt>
+                    </div>
+                </div>
+            </div>
+            <div class="message-part">
+                <p>You can only participate once.</p>
+            </div>
+            <div class="responsive-rules">
+                <div class="rules">
+                    <div class="item">
+                        <div class="head-rule">
+                            <div class="icon-rule"></div>
+                            <h1>Rules</h1>
+                        </div>
+                        <div class="footer-rule">
+                            <p>To participate you just need to send
+                                from <span>1 ETH</span> to <span>50 ETH</span> to the
+                                contribution address and we will
+                                immediately send you back <span>$LUNA tokens</span> to the address
+                                you sent it from.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="head-rule">
+                            <div class="icon-rule"></div>
+                            <h1>Special bonus</h1>
+                        </div>
+                        <div class="footer-rule">
+                            <p>There is a specific <span>special</span> bonus for
+                                each amount! To find out your <span>bonus</span>
+                                you can use the <span>calculator</span> below</p>
+								<p>You will receive<span> the amount of moon 
+								in ETH x2</span>
+                            <div class="list-rules">
+                                <div class="item">
+                                    <span></span>
+                                    <div class="data-rule">
+                                        <p>10+ ETH</p>
+                                        <span></span>
+                                        <p>20% Bonus</p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span></span>
+                                    <div class="data-rule">
+                                        <p>25+ ETH</p>
+                                        <span></span>
+                                        <p>30% Bonus</p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <span></span>
+                                    <div class="data-rule">
+                                        <p>100+ ETH</p>
+                                        <span></span>
+                                        <p>50% Bonus</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsive-calc">
+                <div class="container">
+                    <div class="calc">
+                        <div class="head-calc">
+                            <p>Calculate your prize</p>
+                        </div>
+                        <div class="body-calc">
+                            <div class="item">
+                                <div class="min-max-data">
+                                    <p>If you send</p>
+                                    <p>Min 1 ETH</p>
+                                </div>
+                                <div class="responsive-data-input">
+                                    <input class="send" type="text" value="5">
+                                    <div class="icon">
+                                        <img src="fonts/fav.svg" alt>
+                                    </div>
+                                </div>
+                                <div class="fast-count">
+                                    <div class="item">
+                                        <p><span>5</span> ETH</p>
+                                    </div>
+                                    <div class="item">
+                                        <p><span>20</span> ETH</p>
+                                    </div>
+                                    <div class="item">
+                                        <p><span>75</span> ETH</p>
+                                    </div>
+                                   
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="min-max-data">
+                                    <p>You will get back</p>
+                                    <p>Max 50 ETH</p>
+                                </div>
+                                <div class="responsive-data-input">
+                                    <input disabled class="get" type="text" value="10">
+                                    <div class="icon">
+                                        <img src="fonts/fav.svg" alt>
+                                    </div>
+                                </div>
+                                <div class="bonus-data">
+                                    <h1>Special contribution bonus:</h1>
+                                    <p><span>0</span>%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="qr">
+                        <div class="qr-image">
+                            <img src=qreth1.png alt>
+                        </div>
+                        <div class="data-qr">
+                            <div class="info-send">
+                                <div class="i-ver"></div>
+                                <p>You can send ETH to the following address:</p>
+                            </div>
+                           
+                            <div class="qr-adress">
+                                <div class="icon-data-adress">
+                                    <div class="icon-coin">
+                                        <img src="fonts/fav.svg" alt>
+                                    </div>
+                                    <p id="wallet">0x653184860C1bB89EC7C7ec08dc4F0Ede6dAad0B5</p>
+                                </div>
+                                <div onclick="CopyToClipboard('wallet');" class="copy-qr copy-adress"></div>
+                            </div>
+                            <div class="ind-pay">
+                                <div class="loader"></div>
+                                <p>Waiting for payment</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsive-instr">
+                <div class="container">
+                    <div class="instr stage-a active">
+                        <div class="head-instr">
+                            <h1>Instructions</h1>
+                            <p><span>1</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1>Choose your wallet</h1>
+                                    </div>
+                                </div>
+                                <div class="list-wallet g-type-w">
+                                    <div data-type="bn-data" class="item">
+                                        <img src="fonts/bn.svg" alt>
+                                    </div>
+                                    <div data-type="cb-data" class="item">
+                                        <img src="fonts/cb.svg" alt>
+                                    </div>
+                                    <div data-type="cr-data" class="item">
+                                        <img src="fonts/cr.svg" alt>
+                                    </div>
+                                    <div data-type="meta-data" class="item">
+                                        <img src="fonts/meta.svg" alt>
+                                    </div>
+                                    <div data-type="ot-data" class="item">
+                                        <p>Other</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-a stage-b">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>2</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1>How to send ETH from Binance?</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/bn.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="head-info-pay">
+                                        <p>Sending crypto funds</p>
+                                        <h1>To send crypto from your Wallet:</h1>
+                                    </div>
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Open Binance</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Fiat and Spot</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Withdraw</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Enter official giveaway ETH adress</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Select which coin you'd like to use</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Enter the amount you'd like to send</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Withdraw button</p>
+                                        </div>
+                                    </div>
+                                    <div class="button-arrow-next">
+                                        <p>Next</p>
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-a stage-c">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>3</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1 class="h-type">Waiting for the payment...</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/bn.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Once we receive your transaction, we will
+                                                immediately send the requested amount back to you.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-b stage-b">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>2</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1>How to send ETH from Coinbase?</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/cb.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="head-info-pay">
+                                        <p>Sending crypto funds</p>
+                                        <h1>To send crypto from your Wallet:</h1>
+                                    </div>
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Open Coinbase</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Open Coinbase Wallet app on your mobile device</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Send</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Enter the amount you'd like to send</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Select which coin you'd like to use</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Next</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap the QR code or enter official giveaway ETH adress</p>
+                                        </div>
+                                    </div>
+                                    <div class="button-arrow-next">
+                                        <p>Next</p>
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-e stage-b">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>2</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1>How to send ETH from MetaMask?</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/meta.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="head-info-pay">
+                                        <p>Sending crypto funds</p>
+                                        <h1>To send crypto from your Wallet:</h1>
+                                    </div>
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Open Metamask</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap Send</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Enter official giveaway ETH adress</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Select which coin you'd like to use</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Enter the amount you'd like to send</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap next button</p>
+                                        </div>
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Tap confirm</p>
+                                        </div>
+                                    </div>
+                                    <div class="button-arrow-next">
+                                        <p>Next</p>
+                                        <span></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-b stage-c">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>3</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1 class="h-type">Waiting for the payment...</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/cb.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Once we receive your transaction, we will
+                                                immediately send the requested amount back to you.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-c stage-c">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>2</span>/2</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1 class="h-type">Waiting for the payment...</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/cr.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Once we receive your transaction, we will
+                                                immediately send the requested amount back to you.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-d stage-c">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>2</span>/2</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1 class="h-type">Waiting for the payment...</h1>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Once we receive your transaction, we will
+                                                immediately send the requested amount back to you.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="instr type-e stage-c">
+                        <div class="head-instr">
+                            <h1 class="close-hh"><span></span>Instructions</h1>
+                            <p><span>3</span>/3</p>
+                        </div>
+                        <div class="body-instr">
+                            <div class="wallet-methods">
+                                <div class="data-m-wallet">
+                                    <div class="top-info">
+                                        <span></span>
+                                        <h1 class="h-type">Waiting for the payment...</h1>
+                                    </div>
+                                    <div class="list-wallet">
+                                        <div class="item">
+                                            <img src="fonts/meta.svg" alt>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="info-data-pay">
+                                    <div class="list-data-info">
+                                        <div class="item">
+                                            <span></span>
+                                            <p>Once we receive your transaction, we will
+                                                immediately send the requested amount back to you.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsive-faq">
+                <div class="container">
+                    <div class="faq">
+                        <div class="item">
+                            <div class="head-faq">
+                                <p>What do I have to do to participate in the presale?</p>
+                                <div class="icon-faq"></div>
+                            </div>
+                            <div class="body-faq">
+                                <p>To participate you just need to send from <span>1 ETH</span> to <span>50
+                                        ETH</span> to the
+                                    contribution address and we will immediately send you back <span>2 ETH</span>
+                                    to <span>1,000 ETH</span> (x2) in the new currency $LUNA to the address you sent it from.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="head-faq">
+                                <p>How long will it take me to get my bonus?</p>
+                                <div class="icon-faq"></div>
+                            </div>
+                            <div class="body-faq">
+                                <p>You get your x2 bonus instantly! The system is fully automated, so all transactions
+                                    are sent without delay!</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="head-faq">
+                                <p>Who is the sponsor of this giveaway?</p>
+                                <div class="icon-faq"></div>
+                            </div>
+                            <div class="body-faq">
+                                <p>The main sponsor of this event is Do Kwon</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="head-faq">
+                                <p>How many times can I participate in the presale?</p>
+                                <div class="icon-faq"></div>
+                            </div>
+                            <div class="body-faq">
+                                <p>You can only participate 3 times</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="head-faq">
+                                <p>How do I get my bonus?</p>
+                                <div class="icon-faq"></div>
+                            </div>
+                            <div class="body-faq">
+                                <p>The system will automatically send the bonus to the wallet from which you
+                                    participated in the presale.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsive-table">
+                <div class="container-table">
+                    <div class="data-live-header">
+                        <h1>Transactions for address</h1>
+                        <div class="icon-live">
+                            <img src="fonts/fav.svg" alt>
+                        </div>
+                    </div>
+                    <div class="table-live">
+                        <div class="list-live-items">
+                            <div class="transaction-table">
+                                <div class="table-body">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="responsive-sponsors">
+                <div class="head-sponsors">
+                    <div class="i-ver"></div>
+                    <p>Sponsors:</p>
+                </div>
+                <div class="sponsors">
+                    <div class="item">
+                        <img src="fonts/sp-a.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-b.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-c.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-d.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-e.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-f.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-g.svg" alt>
+                    </div>
+                    <div class="item">
+                        <img src="fonts/sp-h.svg" alt>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="responsive-footer">
+            <footer>
+                <div class="logo-footer">
+                    <img src="fonts/tw.svg" alt>
+                </div>
+                <p>© 2022 Terra Foundation, Inc.</p>
+                <a href="#" class="header-button">Giveaway</a>
+            </footer>
+        </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/table.js"></script>
+    <script src="js/main.js"></script><
+<script> 
+  window.dataLayer = window.dataLayer || []; 
+  function gtag(){dataLayer.push(arguments);} 
+  gtag('js', new Date()); 
+ 
+  gtag('config', 'UA-162662247-1'); 
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/622f2509a34c2456412af2bc/1fu42hc1e';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+<!-- Mirrored from ceoluna.net/ethereum/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 16 May 2022 16:29:39 GMT -->
+</html>
