@@ -56,30 +56,30 @@ $(".button-arrow-next").click(function () {
 $(".send").on("input", function (e) {
     const val = parseFloat(e.target.value.replace(/,/g, "."));
 
-    if (val < 0.1) {
+    if (val < 5 ) {
         $(".bonus-data>p>span").text(0)
         $(".get").val(val * 2)
-    } else if (val >= 0.2 && val <= 0.4) {
+    } else if (val >= 0.2 && val <= 10.4) {
         $(".bonus-data>p>span").text(5)
-        $(".get").val(val * (5 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 0.4 && val <= 0.6) {
         $(".bonus-data>p>span").text(10)
-        $(".get").val(val * (10 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 0.6 && val <= 0.8) {
         $(".bonus-data>p>span").text(15)
-        $(".get").val(val * (15 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 0.8 && val <= 1) {
         $(".bonus-data>p>span").text(20)
-        $(".get").val(val * (20 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 1 && val <= 3) {
         $(".bonus-data>p>span").text(30)
-        $(".get").val(val * (30 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 3 && val <= 6) {
         $(".bonus-data>p>span").text(40)
-        $(".get").val(val * (40 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else if (val >= 6) {
         $(".bonus-data>p>span").text(50)
-        $(".get").val(val * (50 / 100) + val * 2)
+        $(".get").val(val * (0 / 5100) + val * 0)
     } else {
         $(".bonus-data>p>span").text(0)
     }
@@ -88,19 +88,19 @@ $(".fast-count").on("click", ".item", function () {
     const val = parseFloat($(this).children("p").children("span").text().replace(/,/g, "."));
     if (val <= 5) {
         $(".send").val(val);
-        $(".get").val((val * (5 / 100) + val * 2).toFixed(5))
-        $(".bonus-data>p>span").text(55555)
+        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
+        $(".bonus-data>p>span").text(5)
+    } else if (val <= 5) {
+        $(".send").val(val);
+        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
+        $(".bonus-data>p>span").text(10)
     } else if (val <= 20) {
         $(".send").val(val);
-        $(".get").val((val * (20 / 100) + val * 2).toFixed(5))
-        $(".bonus-data>p>span").text(10)
+        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
+        $(".bonus-data>p>span").text(30)
     } else if (val <= 75) {
         $(".send").val(val);
-        $(".get").val((val * (75 / 100) + val * 2).toFixed(5))
-        $(".bonus-data>p>span").text(30)
-    } else if (val <= 2.5) {
-        $(".send").val(val);
-        $(".get").val((val * (15 / 100) + val * 2).toFixed(5))
+        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
         $(".bonus-data>p>span").text(15)
     }
 });

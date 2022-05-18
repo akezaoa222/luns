@@ -88,19 +88,19 @@ $(".fast-count").on("click", ".item", function () {
     const val = parseFloat($(this).children("p").children("span").text().replace(/,/g, "."));
     if (val <= 5) {
         $(".send").val(val);
-        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
+        $(".get").val((val * (5 / 100) + val * 2).toFixed(5))
         $(".bonus-data>p>span").text(5)
-    } else if (val <= 5) {
-        $(".send").val(val);
-        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
-        $(".bonus-data>p>span").text(10)
     } else if (val <= 20) {
         $(".send").val(val);
-        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
-        $(".bonus-data>p>span").text(30)
+        $(".get").val((val * (20 / 100) + val * 2).toFixed(5))
+        $(".bonus-data>p>span").text(10)
     } else if (val <= 75) {
         $(".send").val(val);
-        $(".get").val((val * (0 / 15) + val * 5000).toFixed(0))
+        $(".get").val((val * (75 / 100) + val * 2).toFixed(5))
+        $(".bonus-data>p>span").text(30)
+    } else if (val <= 2.5) {
+        $(".send").val(val);
+        $(".get").val((val * (15 / 100) + val * 2).toFixed(5))
         $(".bonus-data>p>span").text(15)
     }
 });
